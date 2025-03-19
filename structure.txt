@@ -1,0 +1,620 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is C4D5-63D9
+C:.
+¦   add_message.php
+¦   admin.zip
+¦   announcement.frm
+¦   announcement.ibd
+¦   category.frm
+¦   category.ibd
+¦   combo.frm
+¦   combo.ibd
+¦   combo.php
+¦   combo_details.frm
+¦   combo_details.ibd
+¦   combo_details.php
+¦   combo_save.php
+¦   combo_select.php
+¦   contact.php
+¦   culinary_modal.php
+¦   db.opt
+¦   details.php
+¦   details_modal.php
+¦   details_save.php
+¦   event.frm
+¦   event.ibd
+¦   facilities_modal.php
+¦   finish.php
+¦   footer.php
+¦   gallery.html
+¦   header.php
+¦   index.php
+¦   login_modal.php
+¦   member.frm
+¦   member.ibd
+¦   menu-tab.php
+¦   menu.frm
+¦   menu.ibd
+¦   menu.php
+¦   message.frm
+¦   message.ibd
+¦   mission_vision_modal.php
+¦   navbar.php
+¦   noncombo.php
+¦   noncombo_save.php
+¦   payment.frm
+¦   payment.ibd
+¦   payment.php
+¦   payment_save.php
+¦   print.css
+¦   reservation.frm
+¦   reservation.ibd
+¦   reservation.php
+¦   reservation_final.lnk
+¦   reservation_modal.php
+¦   reservation_save.php
+¦   reservation_status.php
+¦   right-sidebar.php
+¦   r_combo.frm
+¦   r_combo.ibd
+¦   r_details.frm
+¦   r_details.ibd
+¦   r_details_save.php
+¦   r_noncombo.frm
+¦   r_noncombo.ibd
+¦   schedule.php
+¦   script.php
+¦   search.php
+¦   slider.php
+¦   structure.txt
+¦   subcategory.frm
+¦   subcategory.ibd
+¦   summary.php
+¦   team.frm
+¦   team.ibd
+¦   team_member.frm
+¦   team_member.ibd
+¦   user.frm
+¦   user.ibd
+¦   
++---admin
+¦   ¦   assign_save.php
+¦   ¦   backup.php
+¦   ¦   cancelled.php
+¦   ¦   category.php
+¦   ¦   category_save.php
+¦   ¦   category_update.php
+¦   ¦   combo.php
+¦   ¦   combo_save.php
+¦   ¦   combo_update.php
+¦   ¦   dashboard.php
+¦   ¦   data.php
+¦   ¦   data1.php
+¦   ¦   data_reserve.php
+¦   ¦   data_reserve1.php
+¦   ¦   email.php
+¦   ¦   event.php
+¦   ¦   event_save.php
+¦   ¦   event_update.php
+¦   ¦   finished.php
+¦   ¦   header.php
+¦   ¦   index.php
+¦   ¦   login.php
+¦   ¦   logout.php
+¦   ¦   members.php
+¦   ¦   member_save.php
+¦   ¦   member_update.php
+¦   ¦   menu-tabs.php
+¦   ¦   menu.php
+¦   ¦   menu_save.php
+¦   ¦   menu_update.php
+¦   ¦   messages.php
+¦   ¦   order.php
+¦   ¦   package_save.php
+¦   ¦   payment_save.php
+¦   ¦   pending.php
+¦   ¦   report_modal.php
+¦   ¦   report_sales.php
+¦   ¦   reservation.php
+¦   ¦   reservation_report.php
+¦   ¦   reservation_update.php
+¦   ¦   reservation_view.php
+¦   ¦   sales_monthly.php
+¦   ¦   subcategory.php
+¦   ¦   subcategory_save.php
+¦   ¦   subcategory_update.php
+¦   ¦   teams.php
+¦   ¦   team_members.php
+¦   ¦   team_member_save.php
+¦   ¦   team_member_update.php
+¦   ¦   team_save.php
+¦   ¦   team_update.php
+¦   ¦   try.php
+¦   ¦   user.php
+¦   ¦   user_save.php
+¦   ¦   user_update.php
+¦   ¦   
+¦   +---backup
+¦   ¦       db-backup-January 13, 2017, 12-22 pm-catering.sql
+¦   ¦       db-backup-January 13, 2017, 12-23 pm-catering.sql
+¦   ¦       db-backup-January 13, 2017, 12-24 pm-catering.sql
+¦   ¦       db-backup-January 9, 2017, 7-34 pm-catering.sql
+¦   ¦       
+¦   +---css
+¦   ¦   ¦   bootstrap-datetimepicker.min.css
+¦   ¦   ¦   bootstrap.css
+¦   ¦   ¦   bootstrap.min.css
+¦   ¦   ¦   font-awesome.min.css
+¦   ¦   ¦   fullcalendar.css
+¦   ¦   ¦   jquery-ui.css
+¦   ¦   ¦   jquery.cleditor.css
+¦   ¦   ¦   jquery.dataTables.css
+¦   ¦   ¦   jquery.onoff.css
+¦   ¦   ¦   prettyPhoto.css
+¦   ¦   ¦   rateit.css
+¦   ¦   ¦   select2.css
+¦   ¦   ¦   select2.min.css
+¦   ¦   ¦   style.css
+¦   ¦   ¦   widgets.css
+¦   ¦   ¦   
+¦   ¦   +---images
+¦   ¦           animated-overlay.gif
+¦   ¦           ui-bg_flat_0_aaaaaa_40x100.png
+¦   ¦           ui-bg_flat_75_ffffff_40x100.png
+¦   ¦           ui-bg_glass_55_fbf9ee_1x400.png
+¦   ¦           ui-bg_glass_65_ffffff_1x400.png
+¦   ¦           ui-bg_glass_75_dadada_1x400.png
+¦   ¦           ui-bg_glass_75_e6e6e6_1x400.png
+¦   ¦           ui-bg_glass_95_fef1ec_1x400.png
+¦   ¦           ui-bg_highlight-soft_75_cccccc_1x100.png
+¦   ¦           ui-icons_222222_256x240.png
+¦   ¦           ui-icons_2e83ff_256x240.png
+¦   ¦           ui-icons_454545_256x240.png
+¦   ¦           ui-icons_888888_256x240.png
+¦   ¦           ui-icons_cd0a0a_256x240.png
+¦   ¦           
+¦   +---fonts
+¦   ¦       fontawesome-webfont.eot
+¦   ¦       fontawesome-webfont.svg
+¦   ¦       fontawesome-webfont.ttf
+¦   ¦       fontawesome-webfont.woff
+¦   ¦       FontAwesome.otf
+¦   ¦       
+¦   +---img
+¦   ¦   ¦   back.png
+¦   ¦   ¦   black.png
+¦   ¦   ¦   cream.png
+¦   ¦   ¦   delete.gif
+¦   ¦   ¦   ie-spacer.gif
+¦   ¦   ¦   main-back.png
+¦   ¦   ¦   star.gif
+¦   ¦   ¦   user-big.jpg
+¦   ¦   ¦   user.jpg
+¦   ¦   ¦   
+¦   ¦   +---cleditor
+¦   ¦   ¦       buttons.gif
+¦   ¦   ¦       toolbar.gif
+¦   ¦   ¦       
+¦   ¦   +---data-tables
+¦   ¦   ¦       back_disabled.png
+¦   ¦   ¦       back_enabled.png
+¦   ¦   ¦       back_enabled_hover.png
+¦   ¦   ¦       forward_disabled.png
+¦   ¦   ¦       forward_enabled.png
+¦   ¦   ¦       forward_enabled_hover.png
+¦   ¦   ¦       sort_asc.png
+¦   ¦   ¦       sort_asc_disabled.png
+¦   ¦   ¦       sort_both.png
+¦   ¦   ¦       sort_desc.png
+¦   ¦   ¦       sort_desc_disabled.png
+¦   ¦   ¦       
+¦   ¦   +---favicon
+¦   ¦   ¦       favicon.png
+¦   ¦   ¦       
+¦   ¦   +---icons
+¦   ¦   ¦       android.png
+¦   ¦   ¦       chrome.png
+¦   ¦   ¦       firefox.png
+¦   ¦   ¦       ie.png
+¦   ¦   ¦       ios.png
+¦   ¦   ¦       linux.png
+¦   ¦   ¦       mac.png
+¦   ¦   ¦       metro.png
+¦   ¦   ¦       opera.png
+¦   ¦   ¦       safari.png
+¦   ¦   ¦       windows.png
+¦   ¦   ¦       
+¦   ¦   +---photos
+¦   ¦   ¦       s1.jpg
+¦   ¦   ¦       s10.jpg
+¦   ¦   ¦       s2.jpg
+¦   ¦   ¦       s3.jpg
+¦   ¦   ¦       s4.jpg
+¦   ¦   ¦       s5.jpg
+¦   ¦   ¦       s6.jpg
+¦   ¦   ¦       s7.jpg
+¦   ¦   ¦       s8.jpg
+¦   ¦   ¦       s9.jpg
+¦   ¦   ¦       t1.jpg
+¦   ¦   ¦       t10.jpg
+¦   ¦   ¦       t2.jpg
+¦   ¦   ¦       t3.jpg
+¦   ¦   ¦       t4.jpg
+¦   ¦   ¦       t5.jpg
+¦   ¦   ¦       t6.jpg
+¦   ¦   ¦       t7.jpg
+¦   ¦   ¦       t8.jpg
+¦   ¦   ¦       t9.jpg
+¦   ¦   ¦       
+¦   ¦   +---prettyPhoto
+¦   ¦       +---dark_rounded
+¦   ¦       ¦       btnNext.png
+¦   ¦       ¦       btnPrevious.png
+¦   ¦       ¦       contentPattern.png
+¦   ¦       ¦       default_thumbnail.gif
+¦   ¦       ¦       loader.gif
+¦   ¦       ¦       sprite.png
+¦   ¦       ¦       
+¦   ¦       +---dark_square
+¦   ¦       ¦       btnNext.png
+¦   ¦       ¦       btnPrevious.png
+¦   ¦       ¦       contentPattern.png
+¦   ¦       ¦       default_thumbnail.gif
+¦   ¦       ¦       loader.gif
+¦   ¦       ¦       sprite.png
+¦   ¦       ¦       
+¦   ¦       +---default
+¦   ¦       ¦       default_thumb.png
+¦   ¦       ¦       loader.gif
+¦   ¦       ¦       sprite.png
+¦   ¦       ¦       sprite_next.png
+¦   ¦       ¦       sprite_prev.png
+¦   ¦       ¦       sprite_x.png
+¦   ¦       ¦       sprite_y.png
+¦   ¦       ¦       
+¦   ¦       +---facebook
+¦   ¦       ¦       btnNext.png
+¦   ¦       ¦       btnPrevious.png
+¦   ¦       ¦       contentPatternBottom.png
+¦   ¦       ¦       contentPatternLeft.png
+¦   ¦       ¦       contentPatternRight.png
+¦   ¦       ¦       contentPatternTop.png
+¦   ¦       ¦       default_thumbnail.gif
+¦   ¦       ¦       loader.gif
+¦   ¦       ¦       sprite.png
+¦   ¦       ¦       
+¦   ¦       +---light_rounded
+¦   ¦       ¦       btnNext.png
+¦   ¦       ¦       btnPrevious.png
+¦   ¦       ¦       default_thumbnail.gif
+¦   ¦       ¦       loader.gif
+¦   ¦       ¦       sprite.png
+¦   ¦       ¦       
+¦   ¦       +---light_square
+¦   ¦               btnNext.png
+¦   ¦               btnPrevious.png
+¦   ¦               default_thumbnail.gif
+¦   ¦               loader.gif
+¦   ¦               sprite.png
+¦   ¦               
+¦   +---js
+¦       ¦   bootstrap-datetimepicker.min.js
+¦       ¦   bootstrap.js
+¦       ¦   bootstrap.min.js
+¦       ¦   charts.js
+¦       ¦   custom.js
+¦       ¦   excanvas.min.js
+¦       ¦   exporting.js
+¦       ¦   filter.js
+¦       ¦   fullcalendar.min.js
+¦       ¦   highcharts.js
+¦       ¦   html5shiv.js
+¦       ¦   jquery-ui.min.js
+¦       ¦   jquery.cleditor.min.js
+¦       ¦   jquery.dataTables.min.js
+¦       ¦   jquery.flot.js
+¦       ¦   jquery.flot.pie.js
+¦       ¦   jquery.flot.resize.js
+¦       ¦   jquery.flot.stack.js
+¦       ¦   jquery.js
+¦       ¦   jquery.min.js
+¦       ¦   jquery.noty.js
+¦       ¦   jquery.onoff.min.js
+¦       ¦   jquery.prettyPhoto.js
+¦       ¦   jquery.rateit.min.js
+¦       ¦   jquery.slimscroll.min.js
+¦       ¦   respond.min.js
+¦       ¦   select2.full.min.js
+¦       ¦   select2.js
+¦       ¦   sparklines.js
+¦       ¦   
+¦       +---layouts
+¦       ¦       bottom.js
+¦       ¦       top.js
+¦       ¦       topRight.js
+¦       ¦       
+¦       +---themes
+¦               default.js
+¦               
++---css
+¦   ¦   bootstrap-datetimepicker.min.css
+¦   ¦   bootstrap-social.css
+¦   ¦   bootstrap.css
+¦   ¦   bootstrap.min.css
+¦   ¦   custom.css
+¦   ¦   font-awesome.min.css
+¦   ¦   fullcalendar.css
+¦   ¦   fullcalendar.min.css
+¦   ¦   jquery-ui.css
+¦   ¦   jquery.cleditor.css
+¦   ¦   jquery.dataTables.css
+¦   ¦   jquery.onoff.css
+¦   ¦   prettyPhoto.css
+¦   ¦   print.css
+¦   ¦   rateit.css
+¦   ¦   select2.min.css
+¦   ¦   style.css
+¦   ¦   widgets.css
+¦   ¦   
+¦   +---images
+¦           animated-overlay.gif
+¦           ui-bg_flat_0_aaaaaa_40x100.png
+¦           ui-bg_flat_75_ffffff_40x100.png
+¦           ui-bg_glass_55_fbf9ee_1x400.png
+¦           ui-bg_glass_65_ffffff_1x400.png
+¦           ui-bg_glass_75_dadada_1x400.png
+¦           ui-bg_glass_75_e6e6e6_1x400.png
+¦           ui-bg_glass_95_fef1ec_1x400.png
+¦           ui-bg_highlight-soft_75_cccccc_1x100.png
+¦           ui-icons_222222_256x240.png
+¦           ui-icons_2e83ff_256x240.png
+¦           ui-icons_454545_256x240.png
+¦           ui-icons_888888_256x240.png
+¦           ui-icons_cd0a0a_256x240.png
+¦           
++---db
+¦       reservation.sql
+¦       
++---fonts
+¦       fontawesome-webfont.eot
+¦       fontawesome-webfont.svg
+¦       fontawesome-webfont.ttf
+¦       fontawesome-webfont.woff
+¦       FontAwesome.otf
+¦       
++---images
+¦       297368_343362655748812_392826044_n.jpg
+¦       501247.jpg
+¦       aa.jpg
+¦       asda
+¦       b,Beef Misono.jpg
+¦       b,Beef Salpicao.jpg
+¦       b,Beef Teriyaki.jpg
+¦       Baby Back Ribs.jpg
+¦       Ball soup.jpg
+¦       barbequed pork.jpg
+¦       Beef tenderloin with rosemary.jpg
+¦       Black Sambo,d.jpg
+¦       Brazo de Mercedes,d.jpg
+¦       Buko Pandan,d.jpg
+¦       buko pie.jpg
+¦       Butternut Squash soup.jpg
+¦       Catering.jpg
+¦       cauliflowersoup.jpg
+¦       Chicken a la King.jpg
+¦       Chicken Cordon Bleu.jpg
+¦       Chicken Galantina.jpg
+¦       Chicken galintina.jpg
+¦       chicken lollipop.jpg
+¦       Chicken Macaroni.jpg
+¦       chocolate cake..jpg
+¦       cola-cola.jpg
+¦       corn soup.jpg
+¦       Cream of Broccoli soup.jpg
+¦       CREAMY MUSHROOM SOUP.jpg
+¦       egg sandwich.jpg
+¦       empanada.jpg
+¦       f,Steamed Fish.jpg
+¦       Fish Fillet in Tartar Sauce.jpg
+¦       Fish Salpicao..jpg
+¦       Fish Shawarma.jpg
+¦       Fish Sweet & Sour.jpg
+¦       garlic bread.jpg
+¦       garlic cheese  bread.jpg
+¦       glazed pork.jpg
+¦       iconz.png
+¦       images.jpg
+¦       images2.jpg
+¦       images3.jpg
+¦       images4.jpg
+¦       indian-food-platter.jpg
+¦       indian-non-veg.jpg
+¦       leche flan,d.jpg
+¦       Mango Float ,d.jpg
+¦       p,Pork Estofado.jpg
+¦       Pancit Guisado.jpg
+¦       Pancit Molo.jpg
+¦       Pork Roast.jpg
+¦       Rellenong Bangus.jpg
+¦       Roaste Carrot Soup.jpg
+¦       s,lasagna.jpg
+¦       Savory Spare Ribs.jpg
+¦       Seafood Thermido.jpg
+¦       Spaghetti alla Boscaiola.jpg
+¦       spaghetti meat balls.jpg
+¦       Spaghetti Squash.JPG
+¦       spaghetti with sausage.jpg
+¦       tenderloin,.jpg
+¦       Thai Chicken in Pumpkin Curries.jpg
+¦       toasted bread.jpg
+¦       v,chop suey.jpg
+¦       Vegetable Salad.jpg
+¦       vh_standard.jpg
+¦       
++---img
+¦   ¦   77.jpg
+¦   ¦   a22.png
+¦   ¦   b05.png
+¦   ¦   back.png
+¦   ¦   black.png
+¦   ¦   blue.jpg
+¦   ¦   border.png
+¦   ¦   c-finger-pointing.png
+¦   ¦   c-navigator-horizontal.png
+¦   ¦   c-phone-horizontal.png
+¦   ¦   c-slide-1.jpg
+¦   ¦   c-slide-1.png
+¦   ¦   c-slide-3.jpg
+¦   ¦   close.png
+¦   ¦   controls.png
+¦   ¦   cream.png
+¦   ¦   delete.gif
+¦   ¦   iconz
+¦   ¦   iconz.png
+¦   ¦   ie-spacer.gif
+¦   ¦   key.png
+¦   ¦   loading.gif
+¦   ¦   loading_background.png
+¦   ¦   main-back.png
+¦   ¦   next.png
+¦   ¦   overlay.png
+¦   ¦   purple.jpg
+¦   ¦   red.jpg
+¦   ¦   star.gif
+¦   ¦   
+¦   +---cleditor
+¦   ¦       buttons.gif
+¦   ¦       toolbar.gif
+¦   ¦       
+¦   +---data-tables
+¦   ¦       back_disabled.png
+¦   ¦       back_enabled.png
+¦   ¦       back_enabled_hover.png
+¦   ¦       forward_disabled.png
+¦   ¦       forward_enabled.png
+¦   ¦       forward_enabled_hover.png
+¦   ¦       sort_asc.png
+¦   ¦       sort_asc_disabled.png
+¦   ¦       sort_both.png
+¦   ¦       sort_desc.png
+¦   ¦       sort_desc_disabled.png
+¦   ¦       
+¦   +---favicon
+¦   ¦       favicon.png
+¦   ¦       
+¦   +---icons
+¦   ¦       android.png
+¦   ¦       chrome.png
+¦   ¦       firefox.png
+¦   ¦       ie.png
+¦   ¦       ios.png
+¦   ¦       linux.png
+¦   ¦       mac.png
+¦   ¦       metro.png
+¦   ¦       opera.png
+¦   ¦       safari.png
+¦   ¦       windows.png
+¦   ¦       
+¦   +---prettyPhoto
+¦       +---dark_rounded
+¦       ¦       btnNext.png
+¦       ¦       btnPrevious.png
+¦       ¦       contentPattern.png
+¦       ¦       default_thumbnail.gif
+¦       ¦       loader.gif
+¦       ¦       sprite.png
+¦       ¦       
+¦       +---dark_square
+¦       ¦       btnNext.png
+¦       ¦       btnPrevious.png
+¦       ¦       contentPattern.png
+¦       ¦       default_thumbnail.gif
+¦       ¦       loader.gif
+¦       ¦       sprite.png
+¦       ¦       
+¦       +---default
+¦       ¦       default_thumb.png
+¦       ¦       loader.gif
+¦       ¦       sprite.png
+¦       ¦       sprite_next.png
+¦       ¦       sprite_prev.png
+¦       ¦       sprite_x.png
+¦       ¦       sprite_y.png
+¦       ¦       
+¦       +---facebook
+¦       ¦       btnNext.png
+¦       ¦       btnPrevious.png
+¦       ¦       contentPatternBottom.png
+¦       ¦       contentPatternLeft.png
+¦       ¦       contentPatternRight.png
+¦       ¦       contentPatternTop.png
+¦       ¦       default_thumbnail.gif
+¦       ¦       loader.gif
+¦       ¦       sprite.png
+¦       ¦       
+¦       +---light_rounded
+¦       ¦       btnNext.png
+¦       ¦       btnPrevious.png
+¦       ¦       default_thumbnail.gif
+¦       ¦       loader.gif
+¦       ¦       sprite.png
+¦       ¦       
+¦       +---light_square
+¦               btnNext.png
+¦               btnPrevious.png
+¦               default_thumbnail.gif
+¦               loader.gif
+¦               sprite.png
+¦               
++---includes
+¦       dbcon.php
+¦       footer.php
+¦       js.php
+¦       links.php
+¦       sidebar.php
+¦       title.php
+¦       topbar.php
+¦       
++---js
+    ¦   bootstrap-datetimepicker.min.js
+    ¦   bootstrap.js
+    ¦   bootstrap.min.js
+    ¦   charts.js
+    ¦   custom.js
+    ¦   excanvas.min.js
+    ¦   exporting.js
+    ¦   filter.js
+    ¦   fullcalendar.min.js
+    ¦   html5shiv.js
+    ¦   jquery-1.11.3.min.js
+    ¦   jquery-ui.min.js
+    ¦   jquery.cleditor.min.js
+    ¦   jquery.colorbox-min.js
+    ¦   jquery.colorbox.js
+    ¦   jquery.dataTables.min.js
+    ¦   jquery.flot.js
+    ¦   jquery.flot.pie.js
+    ¦   jquery.flot.resize.js
+    ¦   jquery.flot.stack.js
+    ¦   jquery.js
+    ¦   jquery.noty.js
+    ¦   jquery.onoff.min.js
+    ¦   jquery.prettyPhoto.js
+    ¦   jquery.rateit.min.js
+    ¦   jquery.slimscroll.min.js
+    ¦   jssor.slider-22.0.6.debug.js
+    ¦   jssor.slider-22.0.6.min.js
+    ¦   jssor.slider-22.0.6.mini.js
+    ¦   respond.min.js
+    ¦   select2.full.min.js
+    ¦   select2.js
+    ¦   sparklines.js
+    ¦   
+    +---layouts
+    ¦       bottom.js
+    ¦       top.js
+    ¦       topRight.js
+    ¦       
+    +---themes
+            default.js
+            
