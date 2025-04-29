@@ -96,9 +96,18 @@
                       <!-- Full size image link in anchor tag. Thumbnail link in image tag. -->
 <?php
 						
-							$querym=mysqli_query($con,"select * from combo_details natural join menu where combo_id='$combo_id' group by cat_id")or die
-              //SET GLOBAL sql_mode = (SELECT REPLACE(@@sql_mode, 'ONLY_FULL_GROUP_BY', ''));
-              (mysqli_error($con));
+						$querym = mysqli_query($con, "
+    SELECT 
+        cat_id, 
+        MAX(menu_id) AS menu_id,
+        MAX(menu_name) AS menu_name,
+        MAX(menu_price) AS menu_price
+    FROM combo_details 
+    NATURAL JOIN menu 
+    WHERE combo_id='$combo_id' 
+    GROUP BY cat_id
+") or die(mysqli_error($con));
+
 							while ($rowm=mysqli_fetch_array($querym)){
 								
 								$menu_name=$rowm['menu_name'];

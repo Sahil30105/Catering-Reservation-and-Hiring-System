@@ -81,7 +81,18 @@ endif;
 <?php
 include('../includes/dbcon.php');
 
-    $query=mysqli_query($con,"select * from team natural join team_member group by team_id")or die(mysqli_error($con));
+$query = mysqli_query($con,"
+    SELECT 
+        team_id,
+        team_name,
+        MAX(member_id) AS member_id,
+        MAX(team_member_id) AS team_member_id
+    FROM team 
+    NATURAL JOIN team_member 
+    GROUP BY team_id
+") or die(mysqli_error($con));
+
+
       while ($row=mysqli_fetch_array($query)){
         $id=$row['team_id'];
         $team=$row['team_name'];

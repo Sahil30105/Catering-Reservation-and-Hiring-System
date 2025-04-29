@@ -21,11 +21,11 @@ endif;
 </head>
 
 <body>
-<h3 style="text-align:center">Chimney's Catering Services</h3>
-<h4 style="text-align:center">Mabini Street, Fisheries Avenue, Talisay City</h4>
-<h4 style="text-align:center">Tel. No. : 435-1114</h4>
-<h4 style="text-align:center">Email : chimneycatering@yahoo.com</h4>
-<h4 style="text-align:center">Facebook : facebook.com/chimneycatering</h4>
+<h3 style="text-align:center">Sahil & Shyam Catering Services</h3>
+<h4 style="text-align:center">Bhandup-East, Mumbai-400078</h4>
+<h4 style="text-align:center">Tel. No. : 9769328578</h4>
+<h4 style="text-align:center">Email : sahilandshyam@gmail.com</h4>
+<h4 style="text-align:center">Facebook : facebook.com/sahilandshyamcatering</h4>
 <hr>
 
 <table style="width:100%">

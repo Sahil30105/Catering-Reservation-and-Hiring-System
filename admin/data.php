@@ -3,7 +3,16 @@ session_start();
 include('../includes/dbcon.php');
 	$year=$_SESSION['year'];
 
-	$query = mysqli_query($con,"select *,SUM(amount) as amount,DATE_FORMAT(payment_date,'%b') as month from payment where YEAR(payment_date)='$year' group by MONTH(payment_date)") or die(mysqli_error($con));
+	$query = mysqli_query($con, "
+  SELECT 
+    SUM(amount) AS amount, 
+    DATE_FORMAT(payment_date, '%b') AS month
+  FROM payment
+  WHERE YEAR(payment_date) = '$year'
+  GROUP BY month
+") or die(mysqli_error($con));
+
+
 
 	$category = array();
 	//$category['name'];

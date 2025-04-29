@@ -2,8 +2,18 @@
 session_start();
 include('../includes/dbcon.php');
 
-$year1=$_SESSION['year1'];
-	$query = mysqli_query($con,"select COUNT(*) as count,DATE_FORMAT(r_date,'%b') as month from reservation where YEAR(r_date)='$year1' and (r_status='Finished' or r_status='Approved') group by MONTH(r_date)") or die(mysqli_error($con));
+$year1 = $_SESSION['year1'];
+
+$query = mysqli_query($con, "
+    SELECT 
+        COUNT(*) AS count, 
+        DATE_FORMAT(r_date, '%b') AS month 
+    FROM reservation 
+    WHERE YEAR(r_date) = '$year1' 
+      AND (r_status = 'Finished' OR r_status = 'Approved') 
+    GROUP BY MONTH(r_date), DATE_FORMAT(r_date, '%b')
+") or die(mysqli_error($con));
+
 
 	$category = array();
 	//$category['name'];
